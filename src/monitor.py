@@ -25,6 +25,8 @@ from urllib.parse import urldefrag, urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
+from content_checks import extract_main_text, find_year_mentions
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
 RUNS_DIR = DATA_DIR / "runs"
@@ -121,6 +123,11 @@ def crawl_site(session, name, root_url):
 
             page["links"] = sorted(links)
             page["images"] = sorted(images)
+
+            current_year = datetime.datetime.utcnow().year
+            page_text = extract_main_text(soup)
+            page["_text"] = page_text
+            page["year_mentions"] = find_year_mentions(page_text, current_year)
 
             for link in links:
                 if (
@@ -252,6 +259,32 @@ def analyze_site(session, name, root_url):
         errors.append({"type": "ssl_invalido", "url": root_url, "detail": ssl_info.get("error")})
     elif ssl_info.get("days_left", 999) <= SSL_WARN_DAYS:
         warnings.append({"type": "ssl_por_vencer", "url": root_url, "detail": f"{ssl_info['days_left']} dias restantes"})
+
+    current_year = datetime.datetime.utcnow().year
+    current_year_mentions = {}
+    for p in pages:
+        for ym in p.get("year_mentions", []):
+            if ym["year"] < current_year:
+                warnings.append({
+                    "type": "contenido_desactualizado",
+                    "url": p["url"],
+                    "detail": f"Menciona {ym['year']}: \"{ym['snippet']}\"",
+                })
+            else:
+                current_year_mentions.setdefault(ym["year"], []).append(p["url"])
+
+    if current_year_mentions:
+        mode_year = max(current_year_mentions, key=lambda y: len(current_year_mentions[y]))
+        mode_count = len(current_year_mentions[mode_year])
+        if mode_count >= 2:
+            for year, urls in current_year_mentions.items():
+                if year != mode_year:
+                    for u in urls:
+                        warnings.append({
+                            "type": "contenido_inconsistente",
+                            "url": u,
+                            "detail": f"Menciona {year}, pero la mayoria del sitio dice {mode_year}",
+                        })
 
     return {
         "name": name,

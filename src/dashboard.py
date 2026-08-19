@@ -35,6 +35,8 @@ ISSUE_LABELS = {
     "ssl_invalido": "Certificado SSL inválido",
     "ssl_por_vencer": "Certificado SSL por vencer",
     "fallo_analisis": "Fallo al analizar el sitio",
+    "contenido_desactualizado": "Contenido posiblemente desactualizado",
+    "contenido_inconsistente": "Año inconsistente entre páginas del sitio",
 }
 
 
