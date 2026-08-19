@@ -296,6 +296,21 @@ def main():
         results.append(result)
         print(f"  -> {result['summary']['errors']} errores, {result['summary']['warnings']} advertencias")
 
+    unreachable = [r for r in results if r["pages_crawled"] <= 1 and r["links_checked"] == 0]
+    if len(unreachable) == len(results):
+        print(
+            "\nABORTADO: los 8 sitios devolvieron 0 recursos revisados. "
+            "Esto no es un problema real de los sitios, es un fallo sistemico "
+            "(bloqueo de red / proxy / DNS del entorno donde corre este script). "
+            "No se sobreescribe data/latest.json con datos falsos de 'todo sano'."
+        )
+        raise SystemExit(1)
+    elif len(unreachable) >= max(1, len(results) // 2):
+        print(
+            f"\nADVERTENCIA: {len(unreachable)}/{len(results)} sitios no devolvieron "
+            "ningun recurso revisado (posible problema de red parcial). Revisar antes de confiar en esta corrida."
+        )
+
     run_finished = datetime.datetime.utcnow().isoformat() + "Z"
 
     output = {
