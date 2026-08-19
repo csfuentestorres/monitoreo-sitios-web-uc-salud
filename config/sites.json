@@ -1,0 +1,10 @@
+[
+  { "name": "Enfermería", "url": "https://enfermeria.uc.cl/" },
+  { "name": "Medicina", "url": "https://medicina.uc.cl/" },
+  { "name": "Facultad de Medicina", "url": "https://facultadmedicina.uc.cl/" },
+  { "name": "Odontología", "url": "https://odontologia.uc.cl/" },
+  { "name": "Kinesiología", "url": "https://kinesiologia.uc.cl/" },
+  { "name": "Fonoaudiología", "url": "https://fonoaudiologia.uc.cl/" },
+  { "name": "Nutrición", "url": "https://nutricion.uc.cl/" },
+  { "name": "Terapia Ocupacional", "url": "https://terapiaocupacional.uc.cl/" }
+]
