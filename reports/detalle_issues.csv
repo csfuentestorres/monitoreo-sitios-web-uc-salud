@@ -1,0 +1,336 @@
+escuela,severidad,tipo,url,detalle,corrida
+Enfermería,error,link_externo_roto,https://correo.uc.cl,HTTP 404,2026-08-19T14:38:16.243982Z
+Enfermería,error,link_externo_roto,https://bit.ly/3BLdgPB,HTTP 404,2026-08-19T14:38:16.243982Z
+Enfermería,error,link_externo_roto,https://forms.gle/iYf4pvhsYjUVvD8M7,HTTP 404,2026-08-19T14:38:16.243982Z
+Enfermería,error,link_externo_roto,https://cienciasdelasalud.uc.cl/es,HTTP 404,2026-08-19T14:38:16.243982Z
+Enfermería,error,link_externo_roto,https://www9.uc.cl/PagoWEB/faces/index.xhtml,"ConnectionError: HTTPSConnectionPool(host='www9.uc.cl', port=443): Max retries exceeded with url: /PagoWEB/faces/index.xhtml (Caused by NameResolutionError(""HTTPSConnection(host='www9.uc.cl', port=443): Failed to resolve 'www9.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Enfermería,error,link_externo_roto,https://internacionalizacion.uc.cl/quiero-ir-a-la-uc/viajar-a-la-uc,HTTP 404,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/carrera-y-programas/pregrado/reglamentos,184 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/educacion-continua/diplomados-y-cursos,172 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_titulo_largo_incorrecto,https://enfermeria.uc.cl/la-formula-que-reduce-secuelas-criticas-en-pacientes-que-han-sufrido-accidente-cerebro-vascular,"111 caracteres: ""La fórmula que reduce secuelas en pacientes que han sufrido accidente cerebro vascular  - Escuela de Enfermería""",2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_ausente,https://enfermeria.uc.cl/la-formula-que-reduce-secuelas-criticas-en-pacientes-que-han-sufrido-accidente-cerebro-vascular,,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/educacion-continua,180 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/carrera-y-programas/postgrado/contacto,169 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_ausente,https://enfermeria.uc.cl/category/vinculacion-con-el-medio,,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/investigacion-e-innovacion/direccion-de-investigacion,172 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_ausente,https://enfermeria.uc.cl/category/sin-categoria,,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/internacionalizacion/iniciativas-de-movilidad-global,225 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/carrera-y-programas/pregrado/intercambio-y-movilidad-estudiantil,177 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/nuestra-escuela/sobre-escuela-de-enfermeria-uc,167 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_ausente,https://enfermeria.uc.cl/educacion-continua/webinars-seminarios-y-jornadas,,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_titulo_largo_incorrecto,https://enfermeria.uc.cl/lactancia-materna-como-escudo-vital-ante-la-desnutricion,"124 caracteres: """"Puentes de Leche"": Enfermería UC promueve lactancia materna como escudo vital ante la desnutrición  - Escuela de Enfermería""",2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_ausente,https://enfermeria.uc.cl/lactancia-materna-como-escudo-vital-ante-la-desnutricion,,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_titulo_largo_incorrecto,https://enfermeria.uc.cl/siestas-de-20-a-30-minutos-en-el-trabajo-pueden-ayudar-a-evitar-errores-en-tareas-criticas,"114 caracteres: ""Siestas de 20 a 30 minutos en el trabajo pueden ayudar a evitar errores en tareas críticas - Escuela de Enfermería""",2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_ausente,https://enfermeria.uc.cl/siestas-de-20-a-30-minutos-en-el-trabajo-pueden-ayudar-a-evitar-errores-en-tareas-criticas,,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/postgrado,171 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_titulo_largo_incorrecto,https://enfermeria.uc.cl/de-la-precarizacion-al-empleo-formal-enfermeria-uc-capacita-a-migrantes-en-el-cuidado-de-personas-mayores,"130 caracteres: ""De la precarización al empleo formal: Enfermería UC capacita a migrantes en el cuidado de personas mayores - Escuela de Enfermería""",2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_ausente,https://enfermeria.uc.cl/de-la-precarizacion-al-empleo-formal-enfermeria-uc-capacita-a-migrantes-en-el-cuidado-de-personas-mayores,,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/internacionalizacion/internacionalizacion-en-casa,191 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/carrera-y-programas/postgrado/equipo,188 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_ausente,https://enfermeria.uc.cl/category/noticias,,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_titulo_largo_incorrecto,https://enfermeria.uc.cl/docentes-de-enfermeria-uc-disenan-nanocurso-de-primeros-auxilios-para-profesionales-y-comunidad,"131 caracteres: ""Teleduc UC: Docentes de Enfermería UC diseñan nanocurso de primeros auxilios para profesionales y comunidad - Escuela de Enfermería""",2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_ausente,https://enfermeria.uc.cl/docentes-de-enfermeria-uc-disenan-nanocurso-de-primeros-auxilios-para-profesionales-y-comunidad,,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/nuestra-escuela/oficina-de-educacion-en-enfermeria/laboratorio-de-simulacion,178 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_descripcion_largo_incorrecto,https://enfermeria.uc.cl/educacion-continua/reglamentos,176 caracteres,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_titulo_duplicado,"https://enfermeria.uc.cl/carrera-y-programas/pregrado/reglamentos, https://enfermeria.uc.cl/educacion-continua/reglamentos","""Reglamentos - Escuela de Enfermería""",2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,meta_titulo_duplicado,"https://enfermeria.uc.cl/carrera-y-programas/pregrado/equipo, https://enfermeria.uc.cl/carrera-y-programas/postgrado/equipo","""Equipo - Escuela de Enfermería""",2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,link_externo_no_verificable,https://www.linkedin.com/in/escuela-de-enfermer%C3%ADa-uc-a164a339,HTTP 999,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,link_externo_no_verificable,https://protecciondedatos.uc.cl/politicas,HTTP 403,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,link_externo_no_verificable,http://bibliotecas.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Enfermería,advertencia,link_externo_no_verificable,https://cl.linkedin.com/in/escuela-de-enfermer%C3%ADa-uc-a164a339,HTTP 999,2026-08-19T14:38:16.243982Z
+Medicina,error,link_interno_roto,https://medicina.uc.cl/Internationalization at Home,HTTP 404,2026-08-19T14:38:16.243982Z
+Medicina,error,link_externo_roto,https://correo.uc.cl,HTTP 404,2026-08-19T14:38:16.243982Z
+Medicina,error,link_externo_roto,https://cienciasdelasalud.uc.cl/es,HTTP 404,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/extension/noticias/estudiantes-de-nutricion-de-la-universidad-de-bolonia-profundizan-en-investigacion-sobre-dieta-mediterranea-en-medicina-uc,"145 caracteres: ""Estudiantes de Nutrición de la Universidad de Bolonia profundizan en investigación sobre dieta mediterránea en Medicina UC  - Escuela de Medicina""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/extension/noticias/estudiantes-de-nutricion-de-la-universidad-de-bolonia-profundizan-en-investigacion-sobre-dieta-mediterranea-en-medicina-uc,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/publicacion/psiquiatria-de-enlace-y-medicina-psicosomatica-segunda-edicion,"85 caracteres: ""Psiquiatría de Enlace y Medicina Psicosomática, segunda edición - Escuela de Medicina""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/publicacion/psiquiatria-de-enlace-y-medicina-psicosomatica-segunda-edicion,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/divisiones-y-departamentos/medicina,"8 caracteres: ""Medicina""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/evento/ii-curso-de-actualizacion-trastornos-respiratorios-del-sueno,"82 caracteres: ""II CURSO DE ACTUALIZACIÓN TRASTORNOS RESPIRATORIOS DEL SUEÑO - Escuela de Medicina""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_largo_incorrecto,https://medicina.uc.cl/evento/ii-curso-de-actualizacion-trastornos-respiratorios-del-sueno,363 caracteres,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/category/noticias,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/noticias,"8 caracteres: ""Noticias""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/noticias,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/extension/noticias/1er-pais-en-latinoamerica-chile-logra-la-fortificacion-de-leche-y-harina-de-trigo-con-vitamina-d,"119 caracteres: ""1er país en Latinoamérica: Chile logra la fortificación de leche y harina de trigo con Vitamina D - Escuela de Medicina""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/extension/noticias/1er-pais-en-latinoamerica-chile-logra-la-fortificacion-de-leche-y-harina-de-trigo-con-vitamina-d,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/publicacion/vertigos-perifericos-como-los-identificamos-y-como-manejamos-el-mas-frecuente-en-aps,"111 caracteres: ""Vertigos periféricos, ¿Cómo los identificamos? Y ¿Como manejamos el más frecuente en aps? - Escuela de Medicina""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/publicacion/vertigos-perifericos-como-los-identificamos-y-como-manejamos-el-mas-frecuente-en-aps,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/vinculacion-con-el-medio/agenda-uc,"9 caracteres: ""Agenda UC""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/vinculacion-con-el-medio/agenda-uc,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/evento/curso-teorico-practico-de-diagnostico-y-manejo-integral-de-enfermedades-obstructivas-en-atencion-primaria,"127 caracteres: ""Curso Teórico-Práctico de Diagnóstico y Manejo Integral de Enfermedades Obstructivas en Atención Primaria - Escuela de Medicina""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/evento/curso-teorico-practico-de-diagnostico-y-manejo-integral-de-enfermedades-obstructivas-en-atencion-primaria,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/postgrado/acreditacion,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_largo_incorrecto,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/extension/noticias,"8 caracteres: ""Noticias""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_descripcion_ausente,https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/extension/noticias,,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,meta_titulo_duplicado,"https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/noticias, https://medicina.uc.cl/extension-y-vinculacion-con-el-medio/extension/noticias","""Noticias""",2026-08-19T14:38:16.243982Z
+Medicina,advertencia,link_externo_no_verificable,http://bibliotecas.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,link_externo_no_verificable,about:blank,InvalidSchema: No connection adapters were found for 'about:blank',2026-08-19T14:38:16.243982Z
+Medicina,advertencia,link_externo_no_verificable,https://medicinaveterinaria.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,link_externo_no_verificable,https://protecciondedatos.uc.cl/politicas,HTTP 403,2026-08-19T14:38:16.243982Z
+Medicina,advertencia,imagen_no_verificable,https://medicina.uc.cl/wp-content/uploads/2026/07/Banner-Ignacio-Sanchez.png,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,http://odontologia.uc.cl/index.php/Postgrado-y-Extension/bienvenida-de-la-directora-de-postgrado-y-extension.html,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,http://odontologia.uc.cl/index.php/Actividades-extension,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,https://correo.uc.cl,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,https://odontologia.lib.uc.cl/noticias/en-su-10a-version-odontomovil-atendio-a-300-personas-de-forma-gratuita,"ConnectionError: HTTPSConnectionPool(host='odontologia.lib.uc.cl', port=443): Max retries exceeded with url: /noticias/en-su-10a-version-odontomovil-atendio-a-300-personas-de-forma-gratuita (Caused by NameResolutionError(""HTTPSConnection(host='odontologia.lib.uc.cl', port=443): Failed to resolve 'odontologia.lib.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,http://odontologia.uc.cl/Diplomados/diplomados-educacion-continua-uc.html,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,http://medicina.uc.cl/escuela/relaciones-internacionales,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,http://www.who.int/ageing/projects/intra/en,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_interno_roto,https://facultadmedicina.uc.cl/salassp_etica_invest_paises_en_desarrollo_2006,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,https://odontologia.lib.uc.cl/noticias/gran-participacion-en-cursos-de-educacion-continua-odontologia-uc,"ConnectionError: HTTPSConnectionPool(host='odontologia.lib.uc.cl', port=443): Max retries exceeded with url: /noticias/gran-participacion-en-cursos-de-educacion-continua-odontologia-uc (Caused by NameResolutionError(""HTTPSConnection(host='odontologia.lib.uc.cl', port=443): Failed to resolve 'odontologia.lib.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,https://odontologia.lib.uc.cl/noticias/docentes-de-odontologia-uc-exponen-sobre-politicas-publicas-que-favorecen-la-salud-bucal,"ConnectionError: HTTPSConnectionPool(host='odontologia.lib.uc.cl', port=443): Max retries exceeded with url: /noticias/docentes-de-odontologia-uc-exponen-sobre-politicas-publicas-que-favorecen-la-salud-bucal (Caused by NameResolutionError(""HTTPSConnection(host='odontologia.lib.uc.cl', port=443): Failed to resolve 'odontologia.lib.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,http://odontologia.uc.cl/estadias-y-visitas.html,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,https://odontologia.lib.uc.cl/noticias/odontologia-uc-titula-a-su-quinta-generacion-de-cirujanos-dentistas,"ConnectionError: HTTPSConnectionPool(host='odontologia.lib.uc.cl', port=443): Max retries exceeded with url: /noticias/odontologia-uc-titula-a-su-quinta-generacion-de-cirujanos-dentistas (Caused by NameResolutionError(""HTTPSConnection(host='odontologia.lib.uc.cl', port=443): Failed to resolve 'odontologia.lib.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,http://enfermeria.uc.cl/asuntos-internacionales,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,http://www.educacioncontinua.uc.cl/cursos-y-seminarios-por-facultad.php?facultad=4598&sub_facultad=6810&o=4598&programas=empezados,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,http://enfermeria.uc.cl/postgrado/programas-de-postitulos/programas,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_externo_roto,https://enfermeria.uc.cl/educacion-continua/cursos,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_interno_roto,https://facultadmedicina.uc.cl/salassp_carta_aamc_conflictos_interes_2008,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,link_interno_roto,https://facultadmedicina.uc.cl/facultad-de-medicina/infraestrucutra/campus/edificio-academico,HTTP 404,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,imagen_roto,https://odontologia.lib.uc.cl/wp-content/uploads/2019/01/meUNRpc-e1548268787587-600x400.jpeg,"ConnectionError: HTTPSConnectionPool(host='odontologia.lib.uc.cl', port=443): Max retries exceeded with url: /wp-content/uploads/2019/01/meUNRpc-e1548268787587-600x400.jpeg (Caused by NameResolutionError(""HTTPSConnection(host='odontologia.lib.uc.cl', port=443): Failed to resolve 'odontologia.lib.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,imagen_roto,https://odontologia.lib.uc.cl/wp-content/uploads/2019/01/nGKUWpS-600x400.jpeg,"ConnectionError: HTTPSConnectionPool(host='odontologia.lib.uc.cl', port=443): Max retries exceeded with url: /wp-content/uploads/2019/01/nGKUWpS-600x400.jpeg (Caused by NameResolutionError(""HTTPSConnection(host='odontologia.lib.uc.cl', port=443): Failed to resolve 'odontologia.lib.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,imagen_roto,https://odontologia.lib.uc.cl/wp-content/uploads/2019/01/Seminario-Politicas-Publicas-e1548356326531-600x400.jpg,"ConnectionError: HTTPSConnectionPool(host='odontologia.lib.uc.cl', port=443): Max retries exceeded with url: /wp-content/uploads/2019/01/Seminario-Politicas-Publicas-e1548356326531-600x400.jpg (Caused by NameResolutionError(""HTTPSConnection(host='odontologia.lib.uc.cl', port=443): Failed to resolve 'odontologia.lib.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,error,imagen_roto,https://odontologia.lib.uc.cl/wp-content/uploads/2019/01/Odontomóvil-2019-600x400.jpg,"ConnectionError: HTTPSConnectionPool(host='odontologia.lib.uc.cl', port=443): Max retries exceeded with url: /wp-content/uploads/2019/01/Odontom%C3%B3vil-2019-600x400.jpg (Caused by NameResolutionError(""HTTPSConnection(host='odontologia.lib.uc.cl', port=443): Failed to resolve 'odontologia.lib.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,meta_descripcion_ausente,https://facultadmedicina.uc.cl/,,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,meta_titulo_largo_incorrecto,https://facultadmedicina.uc.cl/centros-y-programas/centro-interdisciplinario-neurociencia,"67 caracteres: ""Centro Interdisciplinario de Neurociencia UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,meta_titulo_largo_incorrecto,https://facultadmedicina.uc.cl/centros-y-programas/centro-estudios-vejez-envejecimiento,"67 caracteres: ""Centro de Estudios de Vejez y Envejecimiento - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,meta_descripcion_ausente,https://facultadmedicina.uc.cl/publicacion,,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,meta_titulo_largo_incorrecto,https://facultadmedicina.uc.cl/centros-y-programas/centro-de-educacion-medica-y-ciencias-de-la-salud,"72 caracteres: ""Centro de Educación Médica y Ciencias de la Salud - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,meta_titulo_largo_incorrecto,https://facultadmedicina.uc.cl/noticias/dra-silvana-zanlungo-matsuhiro-nueva-vicedecana-de-la-facultad-de-medicina-uc,"102 caracteres: ""Dra. Silvana Zanlungo Matsuhiro: Nueva Vicedecana de la Facultad de Medicina UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,meta_descripcion_ausente,https://facultadmedicina.uc.cl/noticias/dra-silvana-zanlungo-matsuhiro-nueva-vicedecana-de-la-facultad-de-medicina-uc,,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,meta_titulo_largo_incorrecto,https://facultadmedicina.uc.cl/noticias/integral-e-interdisciplinario-ciencias-de-la-salud-uc-lanza-primer-magister-en-rehabilitacion-en-salud,"126 caracteres: ""Integral e interdisciplinario: Ciencias de la Salud UC lanza primer Magíster en Rehabilitación en Salud - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,meta_descripcion_ausente,https://facultadmedicina.uc.cl/noticias/integral-e-interdisciplinario-ciencias-de-la-salud-uc-lanza-primer-magister-en-rehabilitacion-en-salud,,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,link_externo_no_verificable,http://aahpm.org,HTTP 403,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,link_externo_no_verificable,http://bibliotecas.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,link_externo_no_verificable,https://cddoc.uc.cl/programas/proceso-de-convalidacion,HTTP 403,2026-08-19T14:38:16.243982Z
+Facultad de Medicina,advertencia,link_externo_no_verificable,https://www.uc.cl/politica-de-privacidad,HTTP 403,2026-08-19T14:38:16.243982Z
+Odontología,error,link_interno_roto,https://odontologia.uc.cl/intranet,HTTP 404,2026-08-19T14:38:16.243982Z
+Odontología,error,link_externo_roto,https://correo.uc.cl,HTTP 404,2026-08-19T14:38:16.243982Z
+Odontología,error,link_externo_roto,https://vidauniversitaria.uc.cl/389-manual-estudianteuc-2022/file,HTTP 404,2026-08-19T14:38:16.243982Z
+Odontología,error,link_externo_roto,https://cienciasdelasalud.uc.cl/es,HTTP 404,2026-08-19T14:38:16.243982Z
+Odontología,error,link_externo_roto,https://doi.org/10.1902/jop.2008.070505,HTTP 404,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_descripcion_ausente,https://odontologia.uc.cl/postgrado/equipo-postgrado,,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_descripcion_ausente,https://odontologia.uc.cl/clinica-docente/sobre-la-clinica-3,,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_titulo_largo_incorrecto,https://odontologia.uc.cl/acceden-una-vez-al-ano-barco-acerca-atencion-odontologica-a-poblados-rurales-en-la-amazonia-boliviana,"127 caracteres: ""Acceden una vez al año: Barco acerca atención odontológica a poblados rurales en la Amazonía Boliviana - Escuela de Odontología""",2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_descripcion_ausente,https://odontologia.uc.cl/acceden-una-vez-al-ano-barco-acerca-atencion-odontologica-a-poblados-rurales-en-la-amazonia-boliviana,,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_titulo_largo_incorrecto,https://odontologia.uc.cl/educacion-continua/equipo,"6 caracteres: ""Equipo""",2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_titulo_largo_incorrecto,https://odontologia.uc.cl/pregrado/contacto,"8 caracteres: ""Contacto""",2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_descripcion_ausente,https://odontologia.uc.cl/clinica-docente/docencia,,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_titulo_largo_incorrecto,https://odontologia.uc.cl/ocho-acreditaciones-obtenidas-odontologia-uc-logra-certificacion-total-de-programas-de-pre-y-postgrado,"128 caracteres: ""Ocho acreditaciones obtenidas: Odontología UC logra certificación total de programas de pre y postgrado - Escuela de Odontología""",2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_descripcion_ausente,https://odontologia.uc.cl/ocho-acreditaciones-obtenidas-odontologia-uc-logra-certificacion-total-de-programas-de-pre-y-postgrado,,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_titulo_largo_incorrecto,https://odontologia.uc.cl/migracion-y-salud-dental-operativos-odontologicos-registran-que-60-de-pacientes-atendidos-sufria-de-enfermedades-periodontales,"153 caracteres: ""Migración y salud dental: Operativos odontológicos registran que 60% de pacientes atendidos sufría de enfermedades periodontales - Escuela de Odontología""",2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_descripcion_ausente,https://odontologia.uc.cl/migracion-y-salud-dental-operativos-odontologicos-registran-que-60-de-pacientes-atendidos-sufria-de-enfermedades-periodontales,,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_titulo_largo_incorrecto,https://odontologia.uc.cl/educacion-continua/contacto,"8 caracteres: ""Contacto""",2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_descripcion_ausente,https://odontologia.uc.cl/clinica-docente/convenios-instituciones,,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_titulo_largo_incorrecto,https://odontologia.uc.cl/postgrado,"9 caracteres: ""Postgrado""",2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_titulo_duplicado,"https://odontologia.uc.cl/, https://odontologia.uc.cl","""Escuela de Odontología""",2026-08-19T14:38:16.243982Z
+Odontología,advertencia,meta_titulo_duplicado,"https://odontologia.uc.cl/pregrado/contacto, https://odontologia.uc.cl/educacion-continua/contacto","""Contacto""",2026-08-19T14:38:16.243982Z
+Odontología,advertencia,link_externo_no_verificable,https://protecciondedatos.uc.cl/politicas,HTTP 403,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,link_externo_no_verificable,https://doi.org/10.4067/S0370-41062010000100011,HTTP 403,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,link_externo_no_verificable,http://bibliotecas.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,link_externo_no_verificable,https://doi.org/10.1002/jcb.21447,HTTP 403,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,link_externo_no_verificable,https://doi.org/10.1111/j.1600-0765.2008.01140.x,HTTP 403,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,link_externo_no_verificable,https://doi.org/10.1111/j.1600-0765.2008.01103.x,HTTP 403,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,link_externo_no_verificable,https://cl.linkedin.com/company/escuela-de-odontolog%C3%ADa-uc,HTTP 999,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,link_externo_no_verificable,https://registrosacademicos.uc.cl/informacion-para-estudiantes,HTTP 403,2026-08-19T14:38:16.243982Z
+Odontología,advertencia,link_externo_no_verificable,https://registrosacademicos.uc.cl/calendario,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,error,link_externo_roto,https://webaccess.uc.cl,HTTP 404,2026-08-19T14:38:16.243982Z
+Kinesiología,error,link_externo_roto,http://www.cienciapolitica.uc.cl,HTTP 530,2026-08-19T14:38:16.243982Z
+Kinesiología,error,link_externo_roto,http://www7.uc.cl/sociologia,HTTP 404,2026-08-19T14:38:16.243982Z
+Kinesiología,error,link_externo_roto,http://www.quimica.uc.cl,"ConnectionError: HTTPConnectionPool(host='www.quimica.uc.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPConnection(host='www.quimica.uc.cl', port=80): Failed to resolve 'www.quimica.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Kinesiología,error,link_externo_roto,http://www.estudiosurbanos.uc.cl,"ConnectionError: HTTPConnectionPool(host='www.estudiosurbanos.uc.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPConnection(host='www.estudiosurbanos.uc.cl', port=80): Failed to resolve 'www.estudiosurbanos.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Kinesiología,error,link_externo_roto,https://www.niceapp.cl/kinesiologia-uc/camposclinicos/campos-clinicos-asociados,"ConnectionError: HTTPSConnectionPool(host='www.niceapp.cl', port=443): Max retries exceeded with url: /kinesiologia-uc/camposclinicos/campos-clinicos-asociados (Caused by NameResolutionError(""HTTPSConnection(host='www.niceapp.cl', port=443): Failed to resolve 'www.niceapp.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Kinesiología,error,link_externo_roto,https://webaccess.uc.cl/simplesaml/index.php,HTTP 404,2026-08-19T14:38:16.243982Z
+Kinesiología,error,documento_roto,http://secretariageneral.uc.cl/images/Declaracion_de_Principios_UC_actualizadoel28022018.pdf,HTTP 404,2026-08-19T14:38:16.243982Z
+Kinesiología,error,documento_roto,http://secretariageneral.uc.cl/images/2_-_Estatutos_Generales_de_la_PUC_actualizado13octubre2017.pdf,HTTP 404,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_titulo_largo_incorrecto,https://kinesiologia.uc.cl/noticias/sirve-la-pausa-de-hidratacion-kinesiologos-uc-evaluan-la-eficacia-de-la-medida-mas-polemica-del-mundial,"146 caracteres: ""¿Sirve la pausa de hidratación? Kinesiólogos UC evalúan la eficacia de la medida más polémica del Mundial - Kinesiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/noticias/sirve-la-pausa-de-hidratacion-kinesiologos-uc-evaluan-la-eficacia-de-la-medida-mas-polemica-del-mundial,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/educacion-continua,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/kinesiologia/nosotros,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/kinesiologia/academicos,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/estudiantes,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/educacion-continua/cursos,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/estudiantes/reglamentos-internos,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/vinculacion-con-el-medio,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_titulo_largo_incorrecto,https://kinesiologia.uc.cl/camposclinicos/campos-clinicos-asociados,"66 caracteres: ""Campos Clínicos Asociados - Kinesiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/camposclinicos/campos-clinicos-asociados,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/kinesiologia/infraestructura,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/estudiantes/vida-universitaria,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_titulo_largo_incorrecto,https://kinesiologia.uc.cl/noticias/dr-bruno-nervi-nattero-nuevo-decano-de-la-facultad-de-medicina-uc,"108 caracteres: ""Dr. Bruno Nervi Nattero: Nuevo Decano de la Facultad de Medicina UC - Kinesiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/noticias/dr-bruno-nervi-nattero-nuevo-decano-de-la-facultad-de-medicina-uc,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/educacion-continua/diplomados,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/educacion-continua/seminarios,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/kinesiologia,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_titulo_largo_incorrecto,https://kinesiologia.uc.cl/pregrado/descripcion-de-la-carrera-por-area,"75 caracteres: ""Descripción de la carrera por área - Kinesiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/pregrado/descripcion-de-la-carrera-por-area,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/estudiantes/centro-de-estudiantes,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_titulo_largo_incorrecto,https://kinesiologia.uc.cl/educacion-continua/equipo,"66 caracteres: ""Equipo Educación Continua - Kinesiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/educacion-continua/equipo,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/estudiantes/servicios-estudiantiles,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/kinesiologia/organizacion,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,http://kinesiologia.uc.cl,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/kinesiologia/campo-laboral,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_descripcion_ausente,https://kinesiologia.uc.cl/educacion-continua/congresos-y-jornadas,,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,meta_titulo_duplicado,"https://kinesiologia.uc.cl/, https://kinesiologia.uc.cl, http://kinesiologia.uc.cl","""Kinesiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://agronomia.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://apoyo.saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://intranet.cienciasdelasalud.uc.cl/session,"ConnectionError: HTTPConnectionPool(host='intranet.cienciasdelasalud.uc.cl', port=80): Max retries exceeded with url: /session (Caused by NewConnectionError(""HTTPConnection(host='intranet.cienciasdelasalud.uc.cl', port=80): Failed to establish a new connection: [Errno 51] Network is unreachable""))",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://teatro.uc.cl,"ConnectTimeout: HTTPConnectionPool(host='teatro.uc.cl', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='teatro.uc.cl', port=80) at 0x106be1be0>, 'Connection to teatro.uc.cl timed out. (connect timeout=12)'))",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://www.uc.cl/es/politicas-de-privacidad,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://medica.saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://diseno.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://piane.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://bibliotecas.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://dental.saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://historia.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,https://intranet.cienciasdelasalud.uc.cl/session,"ConnectionError: HTTPSConnectionPool(host='intranet.cienciasdelasalud.uc.cl', port=443): Max retries exceeded with url: /session (Caused by NewConnectionError(""HTTPSConnection(host='intranet.cienciasdelasalud.uc.cl', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable""))",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://observatorionuevaevangelizacion.uc.cl/wp,"ReadTimeout: HTTPConnectionPool(host='observatorionuevaevangelizacion.uc.cl', port=80): Read timed out. (read timeout=12)",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://comunicaciones.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://pastoral.uc.cl,"ReadTimeout: HTTPConnectionPool(host='pastoral.uc.cl', port=80): Read timed out. (read timeout=12)",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://college.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://medica.saludestudiantil.uc.cl/index.php/estudiantes-con-hijos,HTTP 403,2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://economiayadministracion.uc.cl,"ConnectTimeout: HTTPConnectionPool(host='economiayadministracion.uc.cl', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='economiayadministracion.uc.cl', port=80) at 0x10ccc6760>, 'Connection to economiayadministracion.uc.cl timed out. (connect timeout=12)'))",2026-08-19T14:38:16.243982Z
+Kinesiología,advertencia,link_externo_no_verificable,http://www.uc.cl/educacion,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,error,link_externo_roto,https://webaccess.uc.cl,HTTP 404,2026-08-19T14:38:16.243982Z
+Fonoaudiología,error,link_externo_roto,http://www.uc.cl/alumnos/4712-postula-en-linea-al-intercambio-estudiantil,HTTP 404,2026-08-19T14:38:16.243982Z
+Fonoaudiología,error,link_externo_roto,https://webaccess.uc.cl/simplesaml/index.php,HTTP 404,2026-08-19T14:38:16.243982Z
+Fonoaudiología,error,link_externo_roto,http://www7.uc.cl/sociologia,HTTP 404,2026-08-19T14:38:16.243982Z
+Fonoaudiología,error,link_externo_roto,http://www.quimica.uc.cl,"ConnectionError: HTTPConnectionPool(host='www.quimica.uc.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPConnection(host='www.quimica.uc.cl', port=80): Failed to resolve 'www.quimica.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Fonoaudiología,error,link_externo_roto,http://www.estudiosurbanos.uc.cl,"ConnectionError: HTTPConnectionPool(host='www.estudiosurbanos.uc.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPConnection(host='www.estudiosurbanos.uc.cl', port=80): Failed to resolve 'www.estudiosurbanos.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Fonoaudiología,error,documento_roto,http://secretariageneral.uc.cl/images/2_-_Estatutos_Generales_de_la_PUC_actualizado13octubre2017.pdf,HTTP 404,2026-08-19T14:38:16.243982Z
+Fonoaudiología,error,documento_roto,http://secretariageneral.uc.cl/images/Declaracion_de_Principios_UC_actualizadoel28022018.pdf,HTTP 404,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/fonoaudiologia/campo-laboral,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/investigacion/unidades-de-investigacion-en-fonoaudiologia,"86 caracteres: ""Unidades de Investigación en Fonoaudiología - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/investigacion/unidades-de-investigacion-en-fonoaudiologia,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/noticias,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/fonoaudiologia/direccion-de-calidad-y-mejora-continua,"68 caracteres: ""Calidad y Mejora Continua - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/fonoaudiologia/direccion-de-calidad-y-mejora-continua,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/estudiantes/bienestar-estudiantil,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/educacion-continua/bootcamps,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/investigacion/unidad-cientifica-de-estudiantes,"75 caracteres: ""Unidad Científica de Estudiantes - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/investigacion/unidad-cientifica-de-estudiantes,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/campos-clinicos/red-de-salud-uc-christus,"67 caracteres: ""Red de Salud UC Christus - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/campos-clinicos/red-de-salud-uc-christus,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/estudiantes/asuntos-estudiantiles,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/investigacion/proyectos-en-desarrollo,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/postgrado-y-educacion-continua/magister-en-rehabilitacion-en-salud,"78 caracteres: ""Magíster en Rehabilitación en Salud - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/postgrado-y-educacion-continua/magister-en-rehabilitacion-en-salud,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/noticias/fonoaudiologo-uc-trabaja-en-crear-el-primer-instrumento-para-evaluar-el-riesgo-laboral-en-profesionales-de-la-voz,"156 caracteres: ""Fonoaudiólogo UC trabaja en crear el primer instrumento para evaluar el riesgo laboral en profesionales de la voz - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/noticias/fonoaudiologo-uc-trabaja-en-crear-el-primer-instrumento-para-evaluar-el-riesgo-laboral-en-profesionales-de-la-voz,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/fonoaudiologia/contacto,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/pregrado/malla-curricular-y-plan-de-estudios,"78 caracteres: ""Malla Curricular y Plan de Estudios - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/fonoaudiologia/por-que-en-la-uc,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/noticias/ocho-proyectos-se-adjudican-el-vii-concurso-de-apoyo-a-la-investigacion-de-la-escuela-de-ciencias-de-la-salud-uc,"156 caracteres: ""Ocho proyectos se adjudican el VIII Concurso de Apoyo a la Investigación de la Escuela de Ciencias de la Salud UC - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/noticias/ocho-proyectos-se-adjudican-el-vii-concurso-de-apoyo-a-la-investigacion-de-la-escuela-de-ciencias-de-la-salud-uc,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/fonoaudiologia/descripcion-de-la-carrera-por-area,"77 caracteres: ""Descripción de la carrera por área - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/fonoaudiologia/descripcion-de-la-carrera-por-area,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_largo_incorrecto,https://fonoaudiologia.uc.cl/equipo-educacion-continua,"68 caracteres: ""Equipo Educación Continua - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/equipo-educacion-continua,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_descripcion_ausente,https://fonoaudiologia.uc.cl/educacion-continua/contacto,,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_duplicado,"https://fonoaudiologia.uc.cl/, https://fonoaudiologia.uc.cl","""Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,meta_titulo_duplicado,"https://fonoaudiologia.uc.cl/fonoaudiologia/contacto, https://fonoaudiologia.uc.cl/educacion-continua/contacto","""Contacto - Fonoaudiología UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://bibliotecas.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://piane.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://historia.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://dental.saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://agronomia.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://investigacion.uc.cl/Investigacion-menu-superior/concursos-investigacion2.html,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://inscripciondecursos.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://comunicaciones.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://www.cienciapolitica.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://apoyo.saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,https://intranet.cienciasdelasalud.uc.cl/session,"ConnectionError: HTTPSConnectionPool(host='intranet.cienciasdelasalud.uc.cl', port=443): Max retries exceeded with url: /session (Caused by NewConnectionError(""HTTPSConnection(host='intranet.cienciasdelasalud.uc.cl', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable""))",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://medica.saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://intranet.cienciasdelasalud.uc.cl/session,"ConnectionError: HTTPConnectionPool(host='intranet.cienciasdelasalud.uc.cl', port=80): Max retries exceeded with url: /session (Caused by NewConnectionError(""HTTPConnection(host='intranet.cienciasdelasalud.uc.cl', port=80): Failed to establish a new connection: [Errno 51] Network is unreachable""))",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://college.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://www.uc.cl/es/politicas-de-privacidad,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://medica.saludestudiantil.uc.cl/index.php/estudiantes-con-hijos,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,https://investigacion.uc.cl/Investigacion-menu-superior/concursos-investigacion2.html,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://diseno.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://www.uc.cl/educacion,HTTP 403,2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://observatorionuevaevangelizacion.uc.cl/wp,"ReadTimeout: HTTPConnectionPool(host='observatorionuevaevangelizacion.uc.cl', port=80): Read timed out. (read timeout=12)",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://teatro.uc.cl,"ConnectTimeout: HTTPConnectionPool(host='teatro.uc.cl', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='teatro.uc.cl', port=80) at 0x106c93af0>, 'Connection to teatro.uc.cl timed out. (connect timeout=12)'))",2026-08-19T14:38:16.243982Z
+Fonoaudiología,advertencia,link_externo_no_verificable,http://economiayadministracion.uc.cl,"ConnectTimeout: HTTPConnectionPool(host='economiayadministracion.uc.cl', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='economiayadministracion.uc.cl', port=80) at 0x106fb03a0>, 'Connection to economiayadministracion.uc.cl timed out. (connect timeout=12)'))",2026-08-19T14:38:16.243982Z
+Nutrición,error,link_externo_roto,https://webaccess.uc.cl,HTTP 404,2026-08-19T14:38:16.243982Z
+Nutrición,error,link_externo_roto,http://www.cienciapolitica.uc.cl,HTTP 530,2026-08-19T14:38:16.243982Z
+Nutrición,error,link_externo_roto,https://webaccess.uc.cl/simplesaml/index.php,HTTP 404,2026-08-19T14:38:16.243982Z
+Nutrición,error,link_externo_roto,http://www7.uc.cl/sociologia,HTTP 404,2026-08-19T14:38:16.243982Z
+Nutrición,error,link_externo_roto,https://drive.google.com/file/d/1wOI1moN8D-dsWf_3NiA1fXXSzQCjQIQL/view,HTTP 404,2026-08-19T14:38:16.243982Z
+Nutrición,error,link_externo_roto,http://www.quimica.uc.cl,"ConnectionError: HTTPConnectionPool(host='www.quimica.uc.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPConnection(host='www.quimica.uc.cl', port=80): Failed to resolve 'www.quimica.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Nutrición,error,link_externo_roto,http://pastoral.uc.cl/proyecto/concurso-de-investigacion-de-alumnos,HTTP 404,2026-08-19T14:38:16.243982Z
+Nutrición,error,link_externo_roto,http://www.estudiosurbanos.uc.cl,"ConnectionError: HTTPConnectionPool(host='www.estudiosurbanos.uc.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPConnection(host='www.estudiosurbanos.uc.cl', port=80): Failed to resolve 'www.estudiosurbanos.uc.cl' ([Errno 8] nodename nor servname provided, or not known)""))",2026-08-19T14:38:16.243982Z
+Nutrición,error,documento_roto,http://secretariageneral.uc.cl/images/Declaracion_de_Principios_UC_actualizadoel28022018.pdf,HTTP 404,2026-08-19T14:38:16.243982Z
+Nutrición,error,documento_roto,http://secretariageneral.uc.cl/images/2_-_Estatutos_Generales_de_la_PUC_actualizado13octubre2017.pdf,HTTP 404,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/educacion-continua,"73 caracteres: ""Educación Continua - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/nutricion/autoridades,"66 caracteres: ""Autoridades - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/investigacion/unidades-de-investigacion-en-nutricion,"93 caracteres: ""Unidades de Investigación en Nutrición - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/pregrado/campos-clinicos,"70 caracteres: ""Campos Clínicos - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_descripcion_ausente,https://nutricion.uc.cl/postgrado,,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/educacion-continua/equipo-educacion-continua,"80 caracteres: ""Equipo Educación Continua - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_descripcion_ausente,https://nutricion.uc.cl/educacion-continua/equipo-educacion-continua,,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_descripcion_ausente,https://nutricion.uc.cl/educacion-continua/bootcamps,,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/estudiantes/asuntos-estudiantiles,"76 caracteres: ""Asuntos Estudiantiles - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_descripcion_ausente,https://nutricion.uc.cl/estudiantes/asuntos-estudiantiles,,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/pregrado/infraestructura,"70 caracteres: ""Infraestructura - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/nutricion/equipo,"69 caracteres: ""Equipo Docente - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/estudiantes/reglamentos,"66 caracteres: ""Reglamentos - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_descripcion_ausente,https://nutricion.uc.cl/estudiantes/reglamentos,,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/investigacion,"68 caracteres: ""Investigación - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/pregrado/malla-curricular-nutricion-uc,"71 caracteres: ""Malla curricular - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/oportunidades-de-investigacion,"85 caracteres: ""Oportunidades de investigación - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_descripcion_ausente,https://nutricion.uc.cl/oportunidades-de-investigacion,,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/noticias/modelos-de-regulacion-del-peso-corporal-la-investigacion-de-nutricion-uc-que-logra-publicacion-en-revista-nature,"173 caracteres: ""Modelos de regulación del peso corporal: La investigación de Nutrición UC que logra publicación en prestigiosa revista - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_descripcion_ausente,https://nutricion.uc.cl/noticias/modelos-de-regulacion-del-peso-corporal-la-investigacion-de-nutricion-uc-que-logra-publicacion-en-revista-nature,,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/pregrado/sustentabilidad,"70 caracteres: ""Sustentabilidad - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_largo_incorrecto,https://nutricion.uc.cl/investigacion/publicaciones,"68 caracteres: ""Publicaciones - Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,meta_titulo_duplicado,"https://nutricion.uc.cl/, https://nutricion.uc.cl","""Carrera Nutrición y Dietética - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://bibliotecas.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-75182023000300332&lng=en&nrm=iso&tlng=en,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://historia.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://agronomia.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://www.mdpi.com/2071-1050/12/21/8835,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://admisionyregistros.uc.cl/alumnos,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://comunicaciones.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://www.tandfonline.com/doi/full/10.1080/87559129.2021.2013498,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://saludestudiantil.uc.cl/Contenidos-del-Sitio/convenio-redsalud-ucchristus.html,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://www.mdpi.com/2304-8158/12/14/2798,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://www.uc.cl/es/politicas-de-privacidad,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://informatica.uc.cl/correo/preguntas-frecuentes-correo-gmail-uc,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://college.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://www.mdpi.com/2304-8158/12/12/2313,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://intranet.cienciasdelasalud.uc.cl/session,"ConnectionError: HTTPConnectionPool(host='intranet.cienciasdelasalud.uc.cl', port=80): Max retries exceeded with url: /session (Caused by NewConnectionError(""HTTPConnection(host='intranet.cienciasdelasalud.uc.cl', port=80): Failed to establish a new connection: [Errno 51] Network is unreachable""))",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://inclusion.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-75182022000100089&lng=es&nrm=iso&tlng=es,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,https://admisionyregistros.uc.cl/alumnos/servicios-academicos/certificacion-estudiantil,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://diseno.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://www.uc.cl/educacion,HTTP 403,2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://teatro.uc.cl,"ConnectTimeout: HTTPConnectionPool(host='teatro.uc.cl', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='teatro.uc.cl', port=80) at 0x1074f7190>, 'Connection to teatro.uc.cl timed out. (connect timeout=12)'))",2026-08-19T14:38:16.243982Z
+Nutrición,advertencia,link_externo_no_verificable,http://economiayadministracion.uc.cl,"ConnectTimeout: HTTPConnectionPool(host='economiayadministracion.uc.cl', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='economiayadministracion.uc.cl', port=80) at 0x1068e19a0>, 'Connection to economiayadministracion.uc.cl timed out. (connect timeout=12)'))",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,error,pagina_roto,https://terapiaocupacional.uc.cl/redes-sociales,HTTP 404,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,error,link_externo_roto,https://correo.uc.cl,HTTP 404,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,error,link_interno_roto,https://terapiaocupacional.uc.cl/redes-sociales,HTTP 404,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,error,imagen_roto,https://medicina.uc.cl/wp-content/uploads/2017/01/Dra.-Marcela-Cisternas-Marti%CC%81nez.jpg,HTTP 404,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/servicios-estudiantiles,"69 caracteres: ""Asuntos Estudiantiles - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/vinculacion-con-el-medio,"72 caracteres: ""Vinculación con el Medio - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/reglamentos-internos,"68 caracteres: ""Reglamentos Internos - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/cursos,"67 caracteres: ""Diplomados y Cursos - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/equipo-educacion-continua,"73 caracteres: ""Equipo Educación Continua - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/integral-e-interdisciplinario-ciencias-de-la-salud-uc-lanza-primer-magister-en-rehabilitacion-en-salud,"151 caracteres: ""Integral e interdisciplinario: Ciencias de la Salud UC lanza primer Magíster en Rehabilitación en Salud - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/vida-universitaria,"66 caracteres: ""Vida Universitaria - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/hito-para-ciencias-de-la-salud-uc-terapia-ocupacional-celebra-su-primera-generacion-de-egresadas,"145 caracteres: ""Hito para Ciencias de la Salud UC: Terapia Ocupacional celebra su primera generación de egresadas - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/ganadores-fondedoc-2026-17-integrantes-de-la-facultad-de-medicina-uc-se-adjudican-proyectos,"141 caracteres: ""Ganadores Fondedoc 2026: 17 integrantes de la Facultad de Medicina UC se adjudican proyectos  - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/enterate-de-todas-nuestras-noticias-sigue-nuestro-instagram,"109 caracteres: ""¡Entérate de todas nuestras noticias! Sigue nuestro instagram - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/terapia-ocupacional,"67 caracteres: ""Terapia Ocupacional - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/todas-las-noticias,"66 caracteres: ""Todas las Noticias - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/12-salas-totalmente-equipadas-innovacion-y-aprendizaje-en-la-simulacion-desde-ciencias-de-la-salud,"147 caracteres: ""12 salas totalmente equipadas: Innovación y aprendizaje en la simulación desde Ciencias de la Salud - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_largo_incorrecto,https://terapiaocupacional.uc.cl/por-que-estudiar-terapia-ocupacional,"86 caracteres: ""¿Por qué estudiar terapia ocupacional? - Terapia Ocupacional UC - Facultad de Medicina""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,meta_titulo_duplicado,"https://terapiaocupacional.uc.cl/, https://terapiaocupacional.uc.cl","""Terapia Ocupacional UC - Facultad de Medicina -""",2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,link_externo_no_verificable,http://bibliotecas.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,link_externo_no_verificable,http://dental.saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,link_externo_no_verificable,http://piane.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,link_externo_no_verificable,http://medica.saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,link_externo_no_verificable,http://medica.saludestudiantil.uc.cl/index.php/estudiantes-con-hijos,HTTP 403,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,link_externo_no_verificable,http://apoyo.saludestudiantil.uc.cl,HTTP 403,2026-08-19T14:38:16.243982Z
+Terapia Ocupacional,advertencia,link_externo_no_verificable,https://www.uc.cl/politica-de-privacidad,HTTP 403,2026-08-19T14:38:16.243982Z
